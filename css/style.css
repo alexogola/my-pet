@@ -1,0 +1,13 @@
+h1{
+  color: orange;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+h2{
+  color: red;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+body{
+  text-align: center;
+}
